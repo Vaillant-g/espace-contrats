@@ -1,0 +1,32 @@
+[
+  {
+    "name": "contrat",
+    "path": "/contrat",
+    "component": "D:\\\\PRO\\\\vue\\\\placementdirect\\\\v5\\\\espacecontrats\\\\client\\\\pages\\\\contrat\\\\index.vue",
+    "chunkName": "pages/contrat/index"
+  },
+  {
+    "name": "espaceClient",
+    "path": "/espaceClient",
+    "component": "D:\\\\PRO\\\\vue\\\\placementdirect\\\\v5\\\\espacecontrats\\\\client\\\\pages\\\\espaceClient\\\\index.vue",
+    "chunkName": "pages/espaceClient/index"
+  },
+  {
+    "name": "informations",
+    "path": "/informations",
+    "component": "D:\\\\PRO\\\\vue\\\\placementdirect\\\\v5\\\\espacecontrats\\\\client\\\\pages\\\\informations\\\\index.vue",
+    "chunkName": "pages/informations/index"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\PRO\\\\vue\\\\placementdirect\\\\v5\\\\espacecontrats\\\\client\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\PRO\\\\vue\\\\placementdirect\\\\v5\\\\espacecontrats\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
