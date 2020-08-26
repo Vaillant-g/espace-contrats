@@ -18,4 +18,4 @@ $ npm install
 $ npm run nuxt
 
 # Lancer le serveur
-$ npm run start:dev
+$ npm run nest
