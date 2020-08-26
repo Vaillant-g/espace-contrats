@@ -3,30 +3,35 @@
     "name": "contrat",
     "path": "/contrat",
     "component": "D:\\\\PRO\\\\vue\\\\placementdirect\\\\v5\\\\espacecontrats\\\\client\\\\pages\\\\contrat\\\\index.vue",
-    "chunkName": "pages/contrat/index"
+    "chunkName": "pages/contrat/index",
+    "_name": "_40ee2b72"
   },
   {
     "name": "espaceClient",
     "path": "/espaceClient",
     "component": "D:\\\\PRO\\\\vue\\\\placementdirect\\\\v5\\\\espacecontrats\\\\client\\\\pages\\\\espaceClient\\\\index.vue",
-    "chunkName": "pages/espaceClient/index"
+    "chunkName": "pages/espaceClient/index",
+    "_name": "_bdeccce4"
   },
   {
     "name": "informations",
     "path": "/informations",
     "component": "D:\\\\PRO\\\\vue\\\\placementdirect\\\\v5\\\\espacecontrats\\\\client\\\\pages\\\\informations\\\\index.vue",
-    "chunkName": "pages/informations/index"
+    "chunkName": "pages/informations/index",
+    "_name": "_59e5165a"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "D:\\\\PRO\\\\vue\\\\placementdirect\\\\v5\\\\espacecontrats\\\\client\\\\pages\\\\login\\\\index.vue",
-    "chunkName": "pages/login/index"
+    "chunkName": "pages/login/index",
+    "_name": "_9b24e65e"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\PRO\\\\vue\\\\placementdirect\\\\v5\\\\espacecontrats\\\\client\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_17f34f7a"
   }
 ]
