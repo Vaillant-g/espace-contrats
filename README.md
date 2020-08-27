@@ -11,11 +11,11 @@ Une aplication permettant à l'utilisateur de consulter ses contrats souscrits e
 $ npm install
 ```
 
-## Running the app
+## Utilisation
 
 ```bash
 # Lancer le client
 $ npm run nuxt
 
 # Lancer le serveur
-$ npm run start:dev
+$ npm run nest
