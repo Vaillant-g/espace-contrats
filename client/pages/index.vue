@@ -37,9 +37,9 @@ export default {
     };
   },
   mounted() {
-    axios.get("https://api.mocki.io/v1/13f44462").then((response) => {
+    axios.get("http://localhost:3000/contrats").then((response) => {
       this.contrats = response.data;
-      console.log(this.contrats);
+      console.log(this.contrats.json);
     });
   },
 };

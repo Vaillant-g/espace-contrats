@@ -11,8 +11,6 @@ export const mutations = {
         state.authenticated = false;
     },
     setIdentifiant(state, identifiant) {
-        console.log('setIdentifiant');
         state.identifiant = identifiant;
-        console.log(state);
     }
 }
