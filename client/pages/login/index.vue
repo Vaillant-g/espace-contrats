@@ -53,12 +53,9 @@ export default {
   methods: {
     onSubmit(evt) {
       evt.preventDefault();
-
-      console.log(this.form.identifiant);
-      console.log(this.form.password);
+      // Requête serv confirmer logs
       this.$store.commit("login");
       this.$store.commit("setIdentifiant", this.form.identifiant);
-      //      window.location.href = "/";
       this.$router.push('/')
     },
   },

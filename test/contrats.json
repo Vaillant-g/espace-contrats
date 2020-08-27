@@ -1,0 +1,34 @@
+{
+    "contrats": [
+        {
+            "id": 0,
+            "id_client": "1",
+            "tiers": "Jack D",
+            "description": "description test"
+        },
+        {
+            "id": 1,
+            "id_client": "1",
+            "tiers": "Pierre F",
+            "description": "description test"
+        },
+        {
+            "id": 2,
+            "id_client": "2",
+            "tiers": "Gautier",
+            "description": "description test"
+        },
+        {
+            "id": 3,
+            "id_client": "3",
+            "tiers": "Jfk",
+            "description": "description test"
+        },
+        {
+            "id": 4,
+            "id_client": "4",
+            "tiers": "Vaillant",
+            "description": "description test"
+        }
+    ]
+}

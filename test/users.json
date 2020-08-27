@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "identifiant": "user1",
+            "prenom": "john",
+            "nom": "doe",
+            "email": "john@do.e",
+            "telephone": "0643158423"
+        },
+        {
+            "identifiant": "user1",
+            "prenom": "john",
+            "nom": "doe",
+            "email": "john@do.e",
+            "telephone": "0643158423"
+        },
+        {
+            "identifiant": "user1",
+            "prenom": "john",
+            "nom": "doe",
+            "email": "john@do.e",
+            "telephone": "0643158423"
+        }
+    ]
+}
