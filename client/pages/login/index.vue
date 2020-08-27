@@ -38,14 +38,14 @@
 </template>
 
 <script>
-import { mapMutations, mapGetters } from 'vuex';
+import { mapMutations, mapGetters } from "vuex";
 
 export default {
   data() {
     return {
       form: {
-        identifiant: '',
-        password: '',
+        identifiant: "",
+        password: "",
       },
       show: true,
     };
@@ -53,9 +53,10 @@ export default {
   methods: {
     onSubmit(evt) {
       evt.preventDefault();
-      this.$store.commit('login');
-      this.$store.commit('setIdentifiant', this.form.identifiant);
-      this.$router.push('/');
+      // Requête serv confirmer logs
+      this.$store.commit("login");
+      this.$store.commit("setIdentifiant", this.form.identifiant);
+      this.$router.push('/')
     },
   },
 };

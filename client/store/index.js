@@ -12,5 +12,6 @@ export const mutations = {
     },
     setIdentifiant(state, identifiant) {
         state.identifiant = identifiant;
+        console.log(state);
     }
 }

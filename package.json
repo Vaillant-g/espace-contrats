@@ -30,9 +30,6 @@
     "copy:client": "copyfiles -a \"client/**/*\" dist",
     "copy:.nuxt": "copyfiles -a \".nuxt/**/*\" dist",
     "copy:config": "copyfiles nuxt.config.js package.json package-lock.json dist"
-
-
-
   },
   "dependencies": {
     "@nestjs/common": "^7.0.0",
